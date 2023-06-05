@@ -1,11 +1,9 @@
 # prototipacao_flutterflow1
 Prototipação com FlutterFlow (teste de navegação entre telas simples)
 
-Prototipação (desenho/diagrama) de app feito com Evolus Pencil Project
+Projeto para modelagem de app usando FlutterFlow.
 
-Projeto para modelagem de app via Evolus Pencil Project.
-
-Objetivos: Permitir que programadores possam realizar um rápida prototipação de uma aplicação mobile, usando uma ferramenta de diagramação.
+Objetivos: Permitir que programadores possam realizar um rápida prototipação de uma aplicação mobile, usando uma ferramenta no code FlutterFlow
 
 Descrição de arquivos:
 
