@@ -5,10 +5,9 @@ Projeto para modelagem de app usando FlutterFlow.
 
 Objetivos: Permitir que programadores possam realizar um rápida prototipação de uma aplicação mobile, usando uma ferramenta no code FlutterFlow
 
-Descrição de arquivos:
-
-Diagrama_v1.epgz contém o projeto do diagrama/desenho feito na ferramenta Evolus Pencil.
+Descrição de arquivo:
 Diagrama_v1.png é identico ao epgz exportado em formato bitmap.
+
 Licença Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) : [cc-by-nc-sa-image]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Diferenças entre Wireframe x Mockup x Prototipação
