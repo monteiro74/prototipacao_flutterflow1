@@ -8,6 +8,8 @@ Objetivos: Permitir que programadores possam realizar um rápida prototipação 
 Descrição de arquivo:
 Diagrama_v1.png é identico ao epgz exportado em formato bitmap.
 
+O protótipo pode ser visto aqui: https://app.flutterflow.io/share/projeto2-1aawt5
+
 Licença Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) : [cc-by-nc-sa-image]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Diferenças entre Wireframe x Mockup x Prototipação
