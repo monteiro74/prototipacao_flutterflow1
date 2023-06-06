@@ -35,4 +35,4 @@ Fonte:
 
 Visualização do projeto:
 
-![plot](https://github.com/monteiro74/prototipacao_flutterflow1/blob/main/imagens/Diagrama_v1.png?raw=true)
+![Diagrama1](https://github.com/monteiro74/prototipacao_flutterflow1/blob/main/imagens/Diagrama_v1.png?raw=true)
