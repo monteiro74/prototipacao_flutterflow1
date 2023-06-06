@@ -5,8 +5,8 @@ Projeto para modelagem de app usando FlutterFlow.
 
 Objetivos: Permitir que programadores possam realizar um rápida prototipação de uma aplicação mobile, usando uma ferramenta no code FlutterFlow
 
-Descrição de arquivo:
-Diagrama_v1.png é identico ao epgz exportado em formato bitmap.
+Descrição de arquivos:
+Diagrama_v1.png e Diagrama_v2.jpg são identicos ao projeto no flutterflow exportado em formato bitmap.
 
 O protótipo pode ser visto aqui: https://app.flutterflow.io/share/projeto2-1aawt5
 
