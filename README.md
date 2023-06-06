@@ -34,3 +34,5 @@ Fonte:
 [3] https://webflow.com/blog/always-choose-prototypes-over-mockups?utm_source=google&utm_medium=search&utm_campaign=Google-Search-Dynamic-Search-Ads-Global-BBSS&utm_term=dsa-1480385100845___617245336972___ss_paid-bb&gclid=EAIaIQobChMI-K_Vyqer_wIVk0FIAB3ymAMbEAAYASAAEgKRd_D_BwE
 
 Visualização do projeto:
+
+![plot](https://github.com/monteiro74/prototipacao_flutterflow1/blob/main/imagens/Diagrama_v1.png?raw=true)
